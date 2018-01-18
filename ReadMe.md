@@ -10,7 +10,7 @@ Please include an executable testing framework for your data structure.
  we have a amortized constant time look-ups.
 
 ##Requirments
- 1. Python 3.6.2
+ 1. Python 3
  2. pytest version = '3.3.2'
  3. Mac OS X
 
@@ -19,11 +19,9 @@ Please include an executable testing framework for your data structure.
  1. To install Homebrew, open Terminal
   `$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
- 2.
+ 2.`$ brew install python3`
 
- 3.`$ brew install python3.3.2`
-
- 4. `pip install pytest`
+ 3. `pip install pytest`
 
 ## To Runt Tests
 
