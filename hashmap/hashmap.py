@@ -1,4 +1,4 @@
-from hashmap.linklist import LinkList
+from linklist import LinkList
 
 
 class HashMap:

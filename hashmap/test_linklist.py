@@ -1,5 +1,5 @@
-from hashmap.linklist import LinkList
-from hashmap.node import Node
+from linklist import LinkList
+from node import Node
 
 
 class TestLinkList:
