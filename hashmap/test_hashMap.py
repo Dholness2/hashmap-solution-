@@ -1,4 +1,4 @@
-from hashMap.hashmap import HashMap
+from hashmap.hashmap import HashMap
 
 
 class TestHashMap:

@@ -1,4 +1,4 @@
-from hashMap.node import Node
+from hashmap.node import Node
 
 
 class LinkList:
